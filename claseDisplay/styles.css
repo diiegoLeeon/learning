@@ -18,3 +18,9 @@
     padding-left: 20px;
     padding-right: 20px;
 }
+
+.container {
+    border: .3rem solid black;
+    display: flex;
+    flex-wrap: wrap;
+}
